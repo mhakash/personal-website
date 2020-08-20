@@ -12,7 +12,7 @@ export default function Home() {
       <Head>
         <title>Akash</title>
         <link rel="icon" href="/favicon.ico" />
-        <meta name="description" content="nextjs starter page" />
+        <meta name="description" content="I am Mehdi Hassan Akash, software developer and tech enthusiastic" />
       </Head>
 
       <main className={styles.main}>

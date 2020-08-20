@@ -1,18 +1,19 @@
-import Document, { Html, Head, Main, NextScript } from 'next/document'
+import Document, { Html, Head, Main, NextScript } from "next/document";
 
 class MyDocument extends Document {
-
   render() {
     return (
-      <Html lang='en'>
-        <Head />
+      <Html lang="en">
+        <Head>
+          <link rel="icon" href="/akash.svg" />
+        </Head>{" "}
         <body>
           <Main />
           <NextScript />
-        </body>
+        </body>{" "}
       </Html>
-    )
+    );
   }
 }
 
-export default MyDocument
+export default MyDocument;

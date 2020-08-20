@@ -19,7 +19,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <h1 className={styles.title} style={{ fontSize: "2.5rem" }}>
+        <h1 className={styles.title} style={{ fontSize: "2.25rem", fontWeight:"bold" }}>
           Mehdi Hassan <span style={{color: "#00D"}}>Akash</span>
         </h1>
         <ul style={{ display: "flex", listStyle: "none" }}>

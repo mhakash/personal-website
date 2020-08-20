@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=B612&display=swap');
-/* @import url('https://fonts.googleapis.com/css2?family=Varela&display=swap'); */
+
 .container {
   background: #ddd;
   min-height: 100vh;
@@ -8,13 +8,8 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  /* font-family: 'Varela', sans-serif; */
+  font-family: 'Menlo';
   font-family: 'B612', sans-serif;
-
-
-  letter-spacing: 3px;
-  word-spacing: 5px;
-
 }
 
 .main {
